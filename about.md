@@ -4,7 +4,7 @@ title: "About Me"
 
 ## Background
 
-Write a brief introduction about yourself here. Include:
+My name is Cameron Hamilton and I am a Senior at Brigham Young University studying Statistics and Data Science. I have long loved data analytics and have experience working with python, SQL, R, and am currently learning c++. I am wanting to start my own business and be an entrepreneur of sorts in the future. I am wanting to learn more about data science and analytics to help me in my future career. As I'm learning more about data science I will be updating this portfolio with projects and assignments that I complete.
 
 - Your academic background
 - Your interest in data science
@@ -13,35 +13,42 @@ Write a brief introduction about yourself here. Include:
 
 ## Education
 
-- **[Your Degree]** - [University Name], [Year]
-- **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
+- **Statistics: Data Science** - Brigham Young Univsersity, 2026
+- **Relevant Coursework**: Statistics, Data Analysis, Programming, Data Structures, Math, Business, Accounting, Finance, Marketing, etc.
 
 ## Skills & Interests
 
 ### Technical Skills
-- **Programming**: Python
-- **Data Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn
+- **Programming**: Python, R, SQL, C++
+- **Data Analysis**: Pandas, NumPy, Scipy, tidyverse
+- **Visualization**: Matplotlib, Seaborn, ggplot2
 - **Machine Learning**: Scikit-learn
 - **Tools**: Jupyter Notebooks, Git/GitHub
 
 ### Areas of Interest
-- [Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]
-- [Other areas you're curious about]
+- Healthcare Data
+- Sports Analytics
+- Snowfall data
+- Entrepreneurship
+- Business Analytics
+- Marketing Analytics
+- Data Visualization
+- Machine Learning
+- Predictive Modeling
 
 ## Goals
 
 Describe what you hope to achieve through your data science journey:
 
-- Short-term learning objectives
-- Long-term career aspirations
-- Types of problems you want to solve
+- Short-term I want to find a career that will help me grow and learn more about data science and analytics. Something that will launch me into my career in the future. 
+- Long-term I want to start my own business based on helping people find the best analytics for theis businesses (potentially privitized). I also am wanting to recieve my MBA and a PhD in Data Science and statistics. 
+- I love to solve problems based on helping people to have simpler lives. I want to use data science to help people in their everyday lives.
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: chamiltonb8@gmail.com
+- **GitHub**: [github.com/chamiltonb8](https://github.com/chamiltonb8)
+- **LinkedIn**: [https://www.linkedin.com/in/cameron-hamilton-444266224/](https://www.linkedin.com/in/cameron-hamilton-444266224/)
 
 ---
 
