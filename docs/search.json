@@ -102,9 +102,9 @@
   {
     "objectID": "projects/data-acquisition.html",
     "href": "projects/data-acquisition.html",
-    "title": "Data Acquisition Project",
+    "title": "",
     "section": "",
-    "text": "This is coming down the pipeline. Check again later.",
+    "text": "Code",
     "crumbs": [
       "Data Acquisition Project"
     ]
@@ -112,11 +112,31 @@
   {
     "objectID": "projects/final-project.html",
     "href": "projects/final-project.html",
-    "title": "Final Project",
+    "title": "",
     "section": "",
-    "text": "This is coming down the pipeline. Check again later.",
+    "text": "Code",
     "crumbs": [
       "Final Project"
+    ]
+  },
+  {
+    "objectID": "projects/tutorial.html",
+    "href": "projects/tutorial.html",
+    "title": "Matplotlib Heatmap Tutorial",
+    "section": "",
+    "text": "Strike 1\nFar too often, I see (and have created) visualizations that are cluttered, hard to read, and honestly look unprofessional and messy. This is a tutorial that will walk you through how to use matplotlib to create clean, easy to read and professional looking visualizations!! We will be using a heatmap as an example, but the principles can be applied to any type of visualization.\n\n\nStrike 2",
+    "crumbs": [
+      "tutorial.html"
+    ]
+  },
+  {
+    "objectID": "projects/tutorial.html#this-tutorial-will-guide-you-through-the-process-of-creating-a-heatmap-using-matplotlib-in-python.-a-heatmap-is-a-graphical-representation-of-data-where-individual-values-are-represented-as-colors-in-a-matrix-format.",
+    "href": "projects/tutorial.html#this-tutorial-will-guide-you-through-the-process-of-creating-a-heatmap-using-matplotlib-in-python.-a-heatmap-is-a-graphical-representation-of-data-where-individual-values-are-represented-as-colors-in-a-matrix-format.",
+    "title": "",
+    "section": "This tutorial will guide you through the process of creating a heatmap using Matplotlib in Python. A heatmap is a graphical representation of data where individual values are represented as colors in a matrix format.",
+    "text": "This tutorial will guide you through the process of creating a heatmap using Matplotlib in Python. A heatmap is a graphical representation of data where individual values are represented as colors in a matrix format.",
+    "crumbs": [
+      "Matplotlib Heatmap Tutorial"
     ]
   }
 ]
